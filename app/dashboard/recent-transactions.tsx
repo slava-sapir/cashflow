@@ -34,7 +34,7 @@ export default async function RecentTransactions() {
             {!recentTransactions?.length && (
             <p className="mt-4 py-10 text-center text-lg text-muted-foreground">
               You have no transaction yet. 
-              Start by hitting "Create New" to create your first transaction
+              Start by hitting &quot;Create New&quot; to create your first transaction
             </p>
             )
             }
