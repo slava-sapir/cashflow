@@ -25,7 +25,7 @@ export default async function EditTransactionPage({
     }
 
     return (
-        <Card className="mt-4 max-w-3xl">
+        <Card className="mt-12 max-w-3xl">
             <CardHeader>
                 <CardTitle className="flex justify-between items-center gap-2">
                     <span>Edit Transaction</span>
